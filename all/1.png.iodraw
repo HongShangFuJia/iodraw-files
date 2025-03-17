@@ -61,13 +61,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-580" value="校验通过" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.43;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-570" target="BaWz20dU1vBaldjcSeTF-571">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1496" y="138" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-581" value="校验失败" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-570" target="BaWz20dU1vBaldjcSeTF-572">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
