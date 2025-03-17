@@ -26,7 +26,7 @@
           <mxGeometry x="433.5" y="400" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-10" value="新书上线资讯" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="417" y="570" width="127" height="48" as="geometry" />
+          <mxGeometry x="440" y="480" width="127" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-11" value="结算服务" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="430" y="650" width="96" height="48" as="geometry" />
