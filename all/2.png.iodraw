@@ -11,10 +11,10 @@
           <mxGeometry x="197" y="310" width="127" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-3" value="个人中心模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="198" y="118" width="127" height="48" as="geometry" />
+          <mxGeometry x="197" y="382" width="127" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-4" value="书籍信息模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="375" y="118" width="126" height="48" as="geometry" />
+          <mxGeometry x="190" y="460" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-5" value="书籍资讯模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="551" y="118" width="126" height="48" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="727" y="118" width="111" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-8" value="修改个人信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="197" y="239" width="128" height="48" as="geometry" />
+          <mxGeometry x="391" y="382" width="128" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-9" value="书籍查询" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="391" y="239" width="94" height="48" as="geometry" />
