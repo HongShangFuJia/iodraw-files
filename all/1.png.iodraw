@@ -62,7 +62,7 @@
           <mxGeometry x="2433" y="240" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-268" value="个人中心模块" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2629.5" y="179.5" width="40" height="157" as="geometry" />
+          <mxGeometry x="2629.5" y="179.5" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-269" value="书籍信息模块" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2835.5" y="336.5" width="48" height="156" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="3240.5" y="187.5" width="48" height="141" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-272" value="修改个人信息" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2629.5" y="427" width="48" height="158" as="geometry" />
+          <mxGeometry x="2629.5" y="427" width="40" height="158" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-273" value="书籍查询" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2835.5" y="570" width="48" height="124" as="geometry" />
