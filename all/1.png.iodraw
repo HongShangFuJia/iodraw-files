@@ -7,18 +7,16 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-573" value="提示修改成功" style="whiteSpace=wrap;strokeWidth=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="259" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-574" value="返回个人信息页面" style="whiteSpace=wrap;strokeWidth=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="259" y="770" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-582" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BaWz20dU1vBaldjcSeTF-573">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-582" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-597" target="BaWz20dU1vBaldjcSeTF-573">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="319" y="630" as="sourcePoint" />
+            <mxPoint x="350" y="690" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-583" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-573" target="BaWz20dU1vBaldjcSeTF-574">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-583" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-573">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="319" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-591" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-588" target="BaWz20dU1vBaldjcSeTF-590">
@@ -41,12 +39,15 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-592" value="输入原密码/新密码/确认密码" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="259" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-597" value="更新数据库" style="whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="259" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-609" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="259" y="870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-610" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-574" target="BaWz20dU1vBaldjcSeTF-609">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-610" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="BaWz20dU1vBaldjcSeTF-609">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="650" as="sourcePoint" />
+            <mxPoint x="319" y="830" as="sourcePoint" />
             <mxPoint x="640" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
