@@ -46,10 +46,10 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-262" value="已取消订单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1400" y="440" width="48" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-263" value="已支付订单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-263" value="已&#xa;支&#xa;付&#xa;订&#xa;单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1480" y="440" width="48" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-264" value="已退款订单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-264" value="已&#xa;退&#xa;款&#xa;订&#xa;单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1554" y="440" width="48" height="140" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-265" value="已&#xa;完&#xa;成&#xa;订&#xa;单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
