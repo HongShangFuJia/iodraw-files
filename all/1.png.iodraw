@@ -43,7 +43,7 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-261" value="未支付订单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1320" y="440" width="48" height="141" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-262" value="已取消订单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-262" value="已&#xa;取&#xa;消&#xa;订&#xa;单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1400" y="440" width="48" height="140" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-263" value="已&#xa;支&#xa;付&#xa;订&#xa;单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
