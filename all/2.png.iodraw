@@ -41,14 +41,15 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-20" value="extends" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-5" target="BaWz20dU1vBaldjcSeTF-10">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-20" value="extends" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-5" target="BaWz20dU1vBaldjcSeTF-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-21" value="extends" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-6" target="BaWz20dU1vBaldjcSeTF-11">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-21" value="extends" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-6" target="BaWz20dU1vBaldjcSeTF-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="246" y="688" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-22" value="普通用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
