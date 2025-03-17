@@ -16,7 +16,7 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-4" value="书籍信息模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="374" y="118" width="126" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-5" value="书籍咨询模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-5" value="书籍资讯模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="550" y="118" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-6" value="购物车模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
