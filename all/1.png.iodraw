@@ -23,7 +23,7 @@
           <mxGeometry x="212" y="750" width="178" height="178" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-571" value="更新数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="450" y="940" width="141" height="48" as="geometry" />
+          <mxGeometry x="1589" y="114" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-572" value="提示信息不符合规范" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1556" y="246" width="206" height="48" as="geometry" />
