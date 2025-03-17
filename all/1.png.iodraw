@@ -49,14 +49,11 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-263" value="已支付订单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1480" y="440" width="48" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-264" target="BaWz20dU1vBaldjcSeTF-265">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-264" value="已退款订单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1554" y="440" width="48" height="140" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-265" value="已完成订单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="460" width="48" height="140" as="geometry" />
+          <mxGeometry x="1630" y="440" width="48" height="140" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-266" value="已发货订单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1760" y="445" width="48" height="140" as="geometry" />
