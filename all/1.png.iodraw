@@ -20,7 +20,7 @@
           <mxGeometry x="1004" y="135" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-570" value="校验修改后的信息" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="930" y="460" width="178" height="178" as="geometry" />
+          <mxGeometry x="212" y="750" width="178" height="178" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-571" value="更新数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1589" y="114" width="141" height="48" as="geometry" />
@@ -59,11 +59,6 @@
             <Array as="points">
               <mxPoint x="979" y="149" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-579" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-569" target="BaWz20dU1vBaldjcSeTF-570">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-580" value="校验通过" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.43;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-570" target="BaWz20dU1vBaldjcSeTF-571">
@@ -129,6 +124,9 @@
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-592" value="展示个人信息页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="241" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-596" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-594" target="BaWz20dU1vBaldjcSeTF-570">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-594" value="用户修改信息并提交" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="241" y="620" width="120" height="60" as="geometry" />
