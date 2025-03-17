@@ -85,13 +85,6 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-275" value="结算服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3201" y="333" width="126" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-276" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.69;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-249" target="BaWz20dU1vBaldjcSeTF-250">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1507" y="111" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-277" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.64;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-249" target="BaWz20dU1vBaldjcSeTF-251">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
