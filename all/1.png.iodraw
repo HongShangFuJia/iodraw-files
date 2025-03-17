@@ -67,8 +67,8 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-269" value="书&#xa;籍&#xa;信&#xa;息&#xa;模&#xa;块" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1990" y="210" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-270" value="书籍咨询模块" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2070" y="350" width="40" height="100" as="geometry" />
+        <mxCell id="BaWz20dU1vBaldjcSeTF-270" value="书&#xa;籍&#xa;咨&#xa;询&#xa;模&#xa;块" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="2068" y="220" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-271" value="购物车模块" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2190" y="350" width="40" height="100" as="geometry" />
