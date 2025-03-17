@@ -33,7 +33,7 @@
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-595" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-592">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="319" y="330" as="targetPoint" />
+            <mxPoint x="510" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-592" value="输入原密码/新密码/确认密码" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
