@@ -11,25 +11,13 @@
             <mxPoint x="270" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-869" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="BaWz20dU1vBaldjcSeTF-870" target="BaWz20dU1vBaldjcSeTF-872" parent="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BaWz20dU1vBaldjcSeTF-869" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="BaWz20dU1vBaldjcSeTF-870" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="30" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-870" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="210" y="-70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-871" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="BaWz20dU1vBaldjcSeTF-872" target="BaWz20dU1vBaldjcSeTF-874" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-872" value="用户发起修改个人信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="210.0021621621621" y="30" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-873" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="BaWz20dU1vBaldjcSeTF-874" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-874" value="展示个人信息页面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="210" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-877" value="更新数据库" style="whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="210" y="480" width="120" height="60" as="geometry" />
