@@ -52,7 +52,7 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-264" value="已退款订单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1554" y="440" width="48" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-265" value="已完成订单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-265" value="已&#xa;完&#xa;成&#xa;订&#xa;单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1630" y="440" width="48" height="140" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-266" value="已&#xa;发&#xa;货&#xa;订&#xa;单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
