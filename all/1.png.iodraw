@@ -102,7 +102,7 @@
             <mxPoint x="460" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-628" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BaWz20dU1vBaldjcSeTF-627">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-628" value="是" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BaWz20dU1vBaldjcSeTF-627">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
