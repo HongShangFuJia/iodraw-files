@@ -75,7 +75,7 @@
             <mxPoint x="320" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-621" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BaWz20dU1vBaldjcSeTF-620">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-621" value="Y" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BaWz20dU1vBaldjcSeTF-620">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
