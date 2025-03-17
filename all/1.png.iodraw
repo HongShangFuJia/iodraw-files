@@ -37,10 +37,10 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-259" value="在线客服" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1160" y="440" width="48" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-260" value="轮播图管理" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-260" value="轮&#xa;播&#xa;图&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1240.5" y="440" width="48" height="142" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-261" value="未支付订单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-261" value="未&#xa;支&#xa;付&#xa;订&#xa;单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1320" y="440" width="48" height="141" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-262" value="已&#xa;取&#xa;消&#xa;订&#xa;单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
