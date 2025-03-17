@@ -26,10 +26,10 @@
           <mxGeometry x="1440" y="241" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-256" value="系&#xa;統&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="241" width="40" height="125" as="geometry" />
+          <mxGeometry x="1520" y="241" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-257" value="订&#xa;单&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="240" width="48" height="125" as="geometry" />
+          <mxGeometry x="1600" y="240" width="40" height="125" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-258" value="书&#xa;籍&#xa;资&#xa;讯" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1080" y="440" width="48" height="125" as="geometry" />
