@@ -11,7 +11,7 @@
           <mxGeometry x="1343" y="139.5" width="154" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-251" value="普通用户端" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1970" y="139.5" width="111" height="48" as="geometry" />
+          <mxGeometry x="1600" y="50" width="111" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-252" value="个&#xa;人&#xa;中&#xa;心" style="whiteSpace=wrap;strokeWidth=2;direction=south;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1200" y="240" width="40" height="100" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="1960" y="241" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-270" value="书&#xa;籍&#xa;咨&#xa;询&#xa;模&#xa;块" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2068" y="220" width="40" height="100" as="geometry" />
+          <mxGeometry x="2041" y="240" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-271" value="购&#xa;物&#xa;车&#xa;模&#xa;块" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2140" y="187.5" width="40" height="100" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="1880" y="440" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-274" value="新&#xa;书&#xa;上&#xa;线&#xa;资&#xa;讯" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2068" y="370" width="40" height="100" as="geometry" />
+          <mxGeometry x="1960" y="440" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-275" value="结&#xa;算&#xa;服&#xa;务" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2140" y="370" width="40" height="100" as="geometry" />
