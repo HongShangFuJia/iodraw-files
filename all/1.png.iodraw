@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-660" value="提示不符合信息" style="whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="411" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="361" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-661" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.01;entryY=0.445;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="BaWz20dU1vBaldjcSeTF-643" target="BaWz20dU1vBaldjcSeTF-660" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -77,7 +77,7 @@
             <mxPoint x="453" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-662" value="校验不通过" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BaWz20dU1vBaldjcSeTF-661">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-662" value="N" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BaWz20dU1vBaldjcSeTF-661">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-663" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=15;" vertex="1" parent="1">
