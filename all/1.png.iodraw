@@ -130,7 +130,7 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-592" value="展示个人信息页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="241" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-594" value="修改个人信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-594" value="用户修改信息并提交" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="241" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
