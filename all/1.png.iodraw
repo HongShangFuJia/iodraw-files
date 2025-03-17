@@ -239,14 +239,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.64;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-37">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2262" y="399" />
-            </Array>
-            <mxPoint x="2262.0000000000005" y="424" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-86" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-54" target="BaWz20dU1vBaldjcSeTF-59">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -265,6 +257,247 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-89" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-57" target="BaWz20dU1vBaldjcSeTF-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-90" value="基于微信小程序的网上图书销售系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2168" y="590" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-91" value="卖家端(兼管理员)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1614" y="706" width="184" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-92" value="普通用户端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2914" y="706" width="141" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-93" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="804" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-94" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1349" y="804" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-95" value="书籍分类管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1524" y="804" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-96" value="书籍信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1731" y="804" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-97" value="系统管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1938" y="804" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-98" value="订单管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2318" y="804" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-99" value="书籍资讯" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="903" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-100" value="在线客服" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="903" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-101" value="轮播图管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1341" y="903" width="142" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-102" value="未支付订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1532" y="903" width="141" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-103" value="已取消订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="903" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-104" value="已支付订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="903" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-105" value="已退款订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="903" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-106" value="登录注册模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2493" y="804" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-107" value="个人中心模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2700" y="804" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-108" value="书籍信息模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2906" y="804" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-109" value="书籍资讯模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3112" y="804" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-110" value="购物车模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3319" y="804" width="141" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-111" value="修改个人信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2699" y="903" width="158" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-112" value="书籍查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2922" y="903" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-113" value="新书上线资讯。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3104" y="903" width="172" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-114" value="结算服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3326" y="903" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-115" value="已完成订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="903" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-116" value="已发货订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2500" y="903" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-117" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.69;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-90" target="BaWz20dU1vBaldjcSeTF-91">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1706" y="681" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-118" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.66;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-90" target="BaWz20dU1vBaldjcSeTF-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2984" y="681" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-119" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-91" target="BaWz20dU1vBaldjcSeTF-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1053" y="779" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-120" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.82;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-91" target="BaWz20dU1vBaldjcSeTF-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1412" y="779" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-121" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-91" target="BaWz20dU1vBaldjcSeTF-95">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1603" y="779" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-122" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-91" target="BaWz20dU1vBaldjcSeTF-96">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1810" y="779" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-123" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.82;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-91" target="BaWz20dU1vBaldjcSeTF-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2000" y="779" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-124" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.64;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-91" target="BaWz20dU1vBaldjcSeTF-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2380" y="779" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-125" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-93" target="BaWz20dU1vBaldjcSeTF-99">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-126" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.88;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-93" target="BaWz20dU1vBaldjcSeTF-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1228" y="878" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-127" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-94" target="BaWz20dU1vBaldjcSeTF-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-128" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-95" target="BaWz20dU1vBaldjcSeTF-102">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-129" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-96" target="BaWz20dU1vBaldjcSeTF-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-130" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-97" target="BaWz20dU1vBaldjcSeTF-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-131" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.85;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-98" target="BaWz20dU1vBaldjcSeTF-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2190" y="878" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-132" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-92" target="BaWz20dU1vBaldjcSeTF-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2571" y="779" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-133" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.85;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-92" target="BaWz20dU1vBaldjcSeTF-107">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2778" y="779" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-134" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-92" target="BaWz20dU1vBaldjcSeTF-108">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-135" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.85;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-92" target="BaWz20dU1vBaldjcSeTF-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3190" y="779" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-136" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-92" target="BaWz20dU1vBaldjcSeTF-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3389" y="779" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-137" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-107" target="BaWz20dU1vBaldjcSeTF-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-138" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-108" target="BaWz20dU1vBaldjcSeTF-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-139" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-109" target="BaWz20dU1vBaldjcSeTF-113">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-140" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-110" target="BaWz20dU1vBaldjcSeTF-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-141" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-98" target="BaWz20dU1vBaldjcSeTF-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-142" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.85;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-98" target="BaWz20dU1vBaldjcSeTF-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2570" y="878" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
