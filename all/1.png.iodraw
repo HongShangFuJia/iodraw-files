@@ -58,11 +58,11 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-266" value="已&#xa;发&#xa;货&#xa;订&#xa;单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1710" y="440" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-267" value="登录注册模块" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-267" value="登&#xa;录&#xa;注&#xa;册&#xa;模&#xa;块" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1830" y="220" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-268" value="个人中心模块" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1759.5" y="267" width="40" height="100" as="geometry" />
+          <mxGeometry x="1910" y="210" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-269" value="书籍信息模块" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1965.5" y="424" width="40" height="100" as="geometry" />
