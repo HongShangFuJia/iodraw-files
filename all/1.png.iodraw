@@ -23,10 +23,10 @@
           <mxGeometry x="212" y="750" width="178" height="178" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-573" value="提示修改成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1812" y="114" width="157" height="48" as="geometry" />
+          <mxGeometry x="443" y="1079" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-574" value="返回个人信息页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2019" y="114" width="189" height="48" as="geometry" />
+          <mxGeometry x="650" y="1079" width="189" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-575" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-565" target="BaWz20dU1vBaldjcSeTF-566">
           <mxGeometry relative="1" as="geometry">
@@ -58,7 +58,7 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-582" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" target="BaWz20dU1vBaldjcSeTF-573">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="1730" y="138.0000000000001" as="sourcePoint" />
+            <mxPoint x="361" y="1103" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-583" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-573" target="BaWz20dU1vBaldjcSeTF-574">
