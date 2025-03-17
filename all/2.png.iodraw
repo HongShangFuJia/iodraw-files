@@ -8,10 +8,10 @@
           <mxGeometry x="21" y="430" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-2" value="登录注册模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="197" y="310" width="127" height="48" as="geometry" />
+          <mxGeometry x="210" y="260" width="127" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-3" value="个人中心模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="197" y="382" width="127" height="48" as="geometry" />
+          <mxGeometry x="220" y="340" width="127" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-4" value="书籍信息模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="190" y="460" width="126" height="48" as="geometry" />
