@@ -78,6 +78,9 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-621" value="Y" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BaWz20dU1vBaldjcSeTF-620">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-622" value="原密码是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
