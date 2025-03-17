@@ -79,11 +79,16 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-273" value="书籍查询" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1965.5" y="657.5" width="40" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-330" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-274">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1990" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-274" value="新书上线资讯" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2050" y="570" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-275" value="结算服务" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2200" y="582.5" width="40" height="100" as="geometry" />
+        <mxCell id="BaWz20dU1vBaldjcSeTF-275" value="结&#xa;算&#xa;服&#xa;务" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="370" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-304" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="BaWz20dU1vBaldjcSeTF-250">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
