@@ -90,6 +90,12 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-624" value="密码是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="290" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-625" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="360" as="sourcePoint" />
+            <mxPoint x="380" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
