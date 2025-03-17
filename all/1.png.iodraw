@@ -7,21 +7,11 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-864" value="校验修改后的信息" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="210" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-865" value="提示修改成功" style="whiteSpace=wrap;strokeWidth=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="210" y="580" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-866" value="返回个人信息页面" style="whiteSpace=wrap;strokeWidth=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="210" y="680" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-867" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" source="BaWz20dU1vBaldjcSeTF-877" target="BaWz20dU1vBaldjcSeTF-865" parent="1">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-867" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" source="BaWz20dU1vBaldjcSeTF-877" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="301" y="600" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-868" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" source="BaWz20dU1vBaldjcSeTF-865" target="BaWz20dU1vBaldjcSeTF-866" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="270" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-869" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="BaWz20dU1vBaldjcSeTF-870" target="BaWz20dU1vBaldjcSeTF-872" parent="1">
@@ -83,9 +73,9 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-884" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="210" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-885" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="BaWz20dU1vBaldjcSeTF-866" target="BaWz20dU1vBaldjcSeTF-884" parent="1">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-885" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="BaWz20dU1vBaldjcSeTF-884" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="541" y="560" as="sourcePoint" />
+            <mxPoint x="270" y="740" as="sourcePoint" />
             <mxPoint x="591" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
