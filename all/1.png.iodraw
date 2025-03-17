@@ -20,7 +20,7 @@
           <mxGeometry x="1004" y="135" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-570" value="校验修改后的信息" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1258" y="70" width="178" height="178" as="geometry" />
+          <mxGeometry x="930" y="460" width="178" height="178" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-571" value="更新数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1589" y="114" width="141" height="48" as="geometry" />
