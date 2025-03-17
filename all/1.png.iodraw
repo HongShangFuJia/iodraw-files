@@ -10,7 +10,7 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-573" value="提示修改成功" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="259" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-574" value="返回个人信息页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-574" value="返回个人信息页面" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="259" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-582" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-597" target="BaWz20dU1vBaldjcSeTF-573">
@@ -27,7 +27,7 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-591" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-588" target="BaWz20dU1vBaldjcSeTF-590">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-588" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-588" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="259" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-593" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-590" target="BaWz20dU1vBaldjcSeTF-592">
