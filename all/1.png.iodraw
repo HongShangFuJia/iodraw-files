@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BaWz20dU1vBaldjcSeTF-867" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" source="BaWz20dU1vBaldjcSeTF-877" parent="1">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-867" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" source="BaWz20dU1vBaldjcSeTF-877" target="BaWz20dU1vBaldjcSeTF-906" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="301" y="600" as="sourcePoint" />
@@ -19,8 +19,8 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-870" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="210" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-877" value="更新数据库" style="whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="210" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="BaWz20dU1vBaldjcSeTF-877" value="登录成功" style="whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-884" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="210" y="780" width="120" height="60" as="geometry" />
@@ -94,6 +94,9 @@
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-905" value="Y" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BaWz20dU1vBaldjcSeTF-904">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-906" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
