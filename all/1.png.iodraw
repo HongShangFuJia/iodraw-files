@@ -60,16 +60,6 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-658" value="Y" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BaWz20dU1vBaldjcSeTF-657">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-659" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="BaWz20dU1vBaldjcSeTF-660" target="BaWz20dU1vBaldjcSeTF-653" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="549" y="140" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="423" y="160" />
-              <mxPoint x="400" y="160" />
-              <mxPoint x="400" y="150" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-660" value="提示不符合信息" style="whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="363" y="304" width="120" height="60" as="geometry" />
         </mxCell>
@@ -89,6 +79,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="511" y="560" as="sourcePoint" />
             <mxPoint x="561" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-665" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="300" as="sourcePoint" />
+            <mxPoint x="380" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
