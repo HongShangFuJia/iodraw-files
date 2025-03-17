@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BaWz20dU1vBaldjcSeTF-542" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="439" y="20" width="94" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-543" value="输入用户名密码" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="406" y="118" width="161" height="161" as="geometry" />
         </mxCell>
@@ -34,15 +31,19 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-551" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1026" y="1266" width="94" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-552" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-542" target="BaWz20dU1vBaldjcSeTF-543">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-552" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="BaWz20dU1vBaldjcSeTF-543">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="486" y="68" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-563" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-550" target="BaWz20dU1vBaldjcSeTF-551">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-564" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
