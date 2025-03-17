@@ -13,7 +13,7 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-251" value="普通用户端" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="2580" y="100" width="111" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-252" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;direction=south;horizontal=0;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-252" value="个&#xa;人&#xa;中&#xa;心" style="whiteSpace=wrap;strokeWidth=2;direction=south;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1200" y="240" width="48" height="126" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-253" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
