@@ -25,10 +25,10 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-255" value="书&#xa;籍&#xa;信&#xa;息&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1440" y="241" width="48" height="157" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-256" value="系統管理" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-256" value="系&#xa;統&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1520" y="241" width="48" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-257" value="订单管理" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-257" value="订&#xa;单&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1600" y="240" width="48" height="125" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-258" value="书籍资讯" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
