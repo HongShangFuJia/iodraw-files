@@ -4,47 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BaWz20dU1vBaldjcSeTF-543" value="输入用户名密码" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="406" y="118" width="161" height="161" as="geometry" />
-        </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-544" value="判断用户名是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="20" y="329" width="192" height="192" as="geometry" />
-        </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-545" value="提示用户名不能&#xa;为空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="72" y="665" width="220" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-546" value="判断密码是否&#xa;为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="341" y="594" width="191" height="191" as="geometry" />
-        </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-547" value="提示密码不能为&#xa;空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="400" y="952" width="204" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-548" value="检测用户名密&#xa;码是否正确" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="654" y="856" width="240" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-549" value="提示用户名密码&#xa;错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="740" y="1168" width="221" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-550" value="登录成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1011" y="1168" width="125" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-551" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1026" y="1266" width="94" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-552" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="BaWz20dU1vBaldjcSeTF-543">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="486" y="68" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-563" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-550" target="BaWz20dU1vBaldjcSeTF-551">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-564" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="426.5" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
