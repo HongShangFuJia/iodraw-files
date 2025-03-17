@@ -91,21 +91,6 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-624" value="密码是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="259" y="20" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-627" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-624" target="BaWz20dU1vBaldjcSeTF-592">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="-20" as="sourcePoint" />
-            <mxPoint x="430" y="60" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="400" y="60" />
-              <mxPoint x="400" y="10" />
-              <mxPoint x="400" y="-27" />
-              <mxPoint x="470" y="60" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-628" value="N" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BaWz20dU1vBaldjcSeTF-627">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-629" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-624" target="BaWz20dU1vBaldjcSeTF-611">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="70" as="sourcePoint" />
@@ -113,6 +98,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-630" value="Y" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BaWz20dU1vBaldjcSeTF-629">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-631" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="60" as="sourcePoint" />
+            <mxPoint x="400" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-632" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BaWz20dU1vBaldjcSeTF-631">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
