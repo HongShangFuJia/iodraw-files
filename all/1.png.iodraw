@@ -41,10 +41,10 @@
           <mxGeometry x="1241" y="440" width="48" height="142" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-261" value="未支付订单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="492.5" width="48" height="141" as="geometry" />
+          <mxGeometry x="1320" y="439" width="48" height="141" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-262" value="已取消订单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="510" width="48" height="140" as="geometry" />
+          <mxGeometry x="1400" y="441" width="48" height="140" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-263" value="已支付订单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2090" y="530" width="48" height="140" as="geometry" />
