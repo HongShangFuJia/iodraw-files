@@ -17,10 +17,10 @@
           <mxGeometry x="1200" y="240" width="48" height="126" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-253" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="262" width="48" height="125" as="geometry" />
+          <mxGeometry x="1280" y="241" width="48" height="125" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-254" value="书籍分类管理" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="198" width="48" height="157" as="geometry" />
+          <mxGeometry x="1360" y="241" width="48" height="157" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-255" value="书籍信息管理" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1810" y="230" width="48" height="157" as="geometry" />
