@@ -8,7 +8,7 @@
           <mxGeometry x="259" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-573" value="提示修改成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="240.5" y="750" width="157" height="48" as="geometry" />
+          <mxGeometry x="240.5" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-574" value="返回个人信息页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="668" y="819" width="189" height="48" as="geometry" />
