@@ -51,11 +51,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="83" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-22" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="68" y="334" width="30" height="56" as="geometry" />
         </mxCell>
