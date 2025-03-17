@@ -40,13 +40,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-653" value="展示个人信息页面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="180" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-654" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="BaWz20dU1vBaldjcSeTF-655" target="BaWz20dU1vBaldjcSeTF-643" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-655" value="用户修改信息并提交" style="whiteSpace=wrap;html=1;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="180" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-656" value="更新数据库" style="whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="180" y="480" width="120" height="60" as="geometry" />
