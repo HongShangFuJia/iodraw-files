@@ -100,6 +100,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="-20" as="sourcePoint" />
             <mxPoint x="430" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="10" />
+              <mxPoint x="400" y="-30" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-628" value="是" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BaWz20dU1vBaldjcSeTF-627">
