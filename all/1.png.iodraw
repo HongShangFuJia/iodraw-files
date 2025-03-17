@@ -56,7 +56,7 @@
           <mxGeometry x="2050" y="445" width="48" height="140" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-266" value="已发货订单" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2410" y="530" width="48" height="140" as="geometry" />
+          <mxGeometry x="1760" y="445" width="48" height="140" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-267" value="登录注册模块" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2433" y="240" width="48" height="157" as="geometry" />
