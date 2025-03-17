@@ -23,10 +23,10 @@
           <mxGeometry x="1360" y="241" width="48" height="157" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-255" value="书籍信息管理" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="230" width="48" height="157" as="geometry" />
+          <mxGeometry x="1440" y="241" width="48" height="157" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-256" value="系統管理" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1940" y="240" width="48" height="125" as="geometry" />
+          <mxGeometry x="1520" y="241" width="48" height="125" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-257" value="订单管理" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2110" y="230" width="48" height="125" as="geometry" />
