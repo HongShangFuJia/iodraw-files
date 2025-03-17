@@ -62,7 +62,7 @@
           <mxGeometry x="1800" y="240" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-268" value="个&#xa;人&#xa;中&#xa;心&#xa;模&#xa;块" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="210" width="40" height="100" as="geometry" />
+          <mxGeometry x="1880" y="240" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-269" value="书&#xa;籍&#xa;信&#xa;息&#xa;模&#xa;块" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1990" y="210" width="40" height="100" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="2140" y="187.5" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-272" value="修&#xa;改&#xa;个&#xa;人&#xa;信&#xa;息" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="370" width="40" height="100" as="geometry" />
+          <mxGeometry x="1800" y="440" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-273" value="书&#xa;籍&#xa;查&#xa;询" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2005.5" y="370" width="40" height="100" as="geometry" />
