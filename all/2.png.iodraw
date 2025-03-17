@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BaWz20dU1vBaldjcSeTF-2" value="登录注册模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="210" y="260" width="127" height="48" as="geometry" />
+          <mxGeometry x="200" y="240" width="127" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-3" value="个人中心模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="220" y="410" width="127" height="48" as="geometry" />
+          <mxGeometry x="200" y="320" width="127" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-4" value="书籍信息模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="221" y="480" width="126" height="48" as="geometry" />
+          <mxGeometry x="200" y="400" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-5" value="书籍资讯模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="221" y="570" width="126" height="48" as="geometry" />
