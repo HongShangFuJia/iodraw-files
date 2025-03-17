@@ -118,11 +118,14 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-588" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="241" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BaWz20dU1vBaldjcSeTF-593" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-590" target="BaWz20dU1vBaldjcSeTF-592">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-590" value="用户发起修改个人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="241.00216216216208" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-592" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="BaWz20dU1vBaldjcSeTF-592" value="展示个人信息页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="241" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
