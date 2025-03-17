@@ -145,7 +145,12 @@
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-608" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-602">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="608.8467984586149" y="490" as="targetPoint" />
+            <mxPoint x="610" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="650" />
+              <mxPoint x="540" y="650" />
+              <mxPoint x="540" y="490" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-602" value="提示不符合信息" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
