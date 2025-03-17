@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BaWz20dU1vBaldjcSeTF-1" value="普通用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="463" y="20" width="124" height="48" as="geometry" />
+          <mxGeometry x="140" y="360" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-2" value="登录注册模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="20" y="118" width="127" height="48" as="geometry" />
