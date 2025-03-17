@@ -73,9 +73,6 @@
         <mxCell id="BaWz20dU1vBaldjcSeTF-57" value="购物车模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="2039" y="424" width="111" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-58" value="系统公告模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="2199" y="424" width="126" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-59" value="修改个人信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1509" y="523" width="128" height="48" as="geometry" />
         </mxCell>
@@ -242,11 +239,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.64;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-37" target="BaWz20dU1vBaldjcSeTF-58">
+        <mxCell id="BaWz20dU1vBaldjcSeTF-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.64;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2262" y="399" />
             </Array>
+            <mxPoint x="2262.0000000000005" y="424" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-86" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-54" target="BaWz20dU1vBaldjcSeTF-59">
