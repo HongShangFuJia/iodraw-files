@@ -39,25 +39,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-553" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-543" target="BaWz20dU1vBaldjcSeTF-544">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="116" y="304" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-554" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.44;entryY=0;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-544" target="BaWz20dU1vBaldjcSeTF-545">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="116" y="558" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BaWz20dU1vBaldjcSeTF-555" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=0;entryX=0;entryY=0.78;rounded=0;" edge="1" parent="1" source="BaWz20dU1vBaldjcSeTF-545" target="BaWz20dU1vBaldjcSeTF-543">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="294" y="558" />
-              <mxPoint x="294" y="304" />
             </Array>
           </mxGeometry>
         </mxCell>
