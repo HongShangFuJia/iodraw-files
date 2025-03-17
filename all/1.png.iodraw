@@ -71,7 +71,7 @@
           <mxGeometry x="3010" y="250" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-271" value="购物车模块" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="3240.5" y="187.5" width="48" height="141" as="geometry" />
+          <mxGeometry x="3240.5" y="187.5" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BaWz20dU1vBaldjcSeTF-272" value="修改个人信息" style="whiteSpace=wrap;strokeWidth=2;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2629.5" y="427" width="40" height="100" as="geometry" />
