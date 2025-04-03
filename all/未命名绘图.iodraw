@@ -7,15 +7,6 @@
         <mxCell id="gzuvD9OA6bgC1sPIGbKB-7" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gzuvD9OA6bgC1sPIGbKB-8" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="290" as="sourcePoint" />
-            <mxPoint x="470" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gzuvD9OA6bgC1sPIGbKB-9" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="gzuvD9OA6bgC1sPIGbKB-8">
-          <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
