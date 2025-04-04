@@ -331,7 +331,7 @@
         <mxCell id="gzuvD9OA6bgC1sPIGbKB-92" value="图片路径" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gzuvD9OA6bgC1sPIGbKB-93" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gzuvD9OA6bgC1sPIGbKB-93" value="作者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gzuvD9OA6bgC1sPIGbKB-94" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
