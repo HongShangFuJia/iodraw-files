@@ -485,16 +485,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gzuvD9OA6bgC1sPIGbKB-126" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="440" width="120" height="80" as="geometry" />
+          <mxGeometry x="450" y="450" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gzuvD9OA6bgC1sPIGbKB-127" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="355" width="120" height="80" as="geometry" />
+          <mxGeometry x="474" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gzuvD9OA6bgC1sPIGbKB-128" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gzuvD9OA6bgC1sPIGbKB-129" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="300" y="370" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
