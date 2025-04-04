@@ -27,7 +27,11 @@
         </mxCell>
         <mxCell id="KHQfUFY1CiU1sb5PVUkV-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="KHQfUFY1CiU1sb5PVUkV-40" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="260" as="targetPoint" />
+            <mxPoint x="580" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="561" y="310" />
+              <mxPoint x="561" y="260" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KHQfUFY1CiU1sb5PVUkV-40" value="发起修改密码信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
