@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="9yOZoHldFEMr2omYIxQx">
-    <mxGraphModel dx="208" dy="117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="739" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,10 +33,10 @@
         <mxCell id="KHQfUFY1CiU1sb5PVUkV-40" value="发起修改密码信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="179.0021621621621" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KHQfUFY1CiU1sb5PVUkV-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.448;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="KHQfUFY1CiU1sb5PVUkV-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.448;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="KHQfUFY1CiU1sb5PVUkV-66" target="KHQfUFY1CiU1sb5PVUkV-53" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="226.24" y="499.8200000000001" as="targetPoint" />
-            <mxPoint x="220.00000000000006" y="439.99999999999994" as="sourcePoint" />
+            <mxPoint x="430" y="760" as="targetPoint" />
+            <mxPoint x="140" y="480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KHQfUFY1CiU1sb5PVUkV-42" value="输入原密码/新密码/确认密码" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
