@@ -31,9 +31,6 @@
         <mxCell id="KHQfUFY1CiU1sb5PVUkV-40" value="发起修改密码信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="179.0021621621621" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KHQfUFY1CiU1sb5PVUkV-42" value="输入原密码/新密码/确认密码" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="580" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="KHQfUFY1CiU1sb5PVUkV-43" value="更新数据库" style="whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="179" y="810" width="120" height="60" as="geometry" />
         </mxCell>
@@ -139,6 +136,9 @@
               <mxPoint x="420" y="410" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KHQfUFY1CiU1sb5PVUkV-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KHQfUFY1CiU1sb5PVUkV-66" target="KHQfUFY1CiU1sb5PVUkV-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KHQfUFY1CiU1sb5PVUkV-66" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="179" y="370" width="135" height="60" as="geometry" />
