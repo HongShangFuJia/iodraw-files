@@ -530,7 +530,7 @@
           <mxGeometry x="380" y="760" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gzuvD9OA6bgC1sPIGbKB-142" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="900" width="120" height="80" as="geometry" />
+          <mxGeometry x="300" y="790" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gzuvD9OA6bgC1sPIGbKB-143" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="830" width="120" height="80" as="geometry" />
@@ -539,7 +539,7 @@
           <mxGeometry x="20" y="880" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gzuvD9OA6bgC1sPIGbKB-145" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="900" width="120" height="80" as="geometry" />
+          <mxGeometry x="220" y="810" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gzuvD9OA6bgC1sPIGbKB-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gzuvD9OA6bgC1sPIGbKB-143" target="gzuvD9OA6bgC1sPIGbKB-143">
           <mxGeometry relative="1" as="geometry" />
