@@ -33,9 +33,10 @@
         <mxCell id="KHQfUFY1CiU1sb5PVUkV-40" value="发起修改密码信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="179.0021621621621" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KHQfUFY1CiU1sb5PVUkV-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="KHQfUFY1CiU1sb5PVUkV-42" target="KHQfUFY1CiU1sb5PVUkV-53" parent="1">
+        <mxCell id="KHQfUFY1CiU1sb5PVUkV-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" target="KHQfUFY1CiU1sb5PVUkV-53" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="760" as="targetPoint" />
+            <mxPoint x="140" y="480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KHQfUFY1CiU1sb5PVUkV-42" value="输入原密码/新密码/确认密码" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
@@ -62,10 +63,10 @@
         <mxCell id="KHQfUFY1CiU1sb5PVUkV-48" value="提示原密码错误" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KHQfUFY1CiU1sb5PVUkV-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="KHQfUFY1CiU1sb5PVUkV-48" target="KHQfUFY1CiU1sb5PVUkV-42" parent="1">
+        <mxCell id="KHQfUFY1CiU1sb5PVUkV-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="KHQfUFY1CiU1sb5PVUkV-48" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="50" y="740" as="sourcePoint" />
-            <mxPoint x="100" y="690" as="targetPoint" />
+            <mxPoint x="40" y="350" as="targetPoint" />
             <Array as="points">
               <mxPoint x="90" y="490" />
               <mxPoint x="90" y="410" />
