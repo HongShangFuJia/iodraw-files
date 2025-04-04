@@ -25,8 +25,10 @@
         <mxCell id="KHQfUFY1CiU1sb5PVUkV-38" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="179" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KHQfUFY1CiU1sb5PVUkV-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="KHQfUFY1CiU1sb5PVUkV-40" target="KHQfUFY1CiU1sb5PVUkV-42" parent="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KHQfUFY1CiU1sb5PVUkV-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="KHQfUFY1CiU1sb5PVUkV-40" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KHQfUFY1CiU1sb5PVUkV-40" value="发起修改密码信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="179.0021621621621" y="300" width="120" height="60" as="geometry" />
