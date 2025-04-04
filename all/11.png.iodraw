@@ -140,7 +140,7 @@
         <mxCell id="KHQfUFY1CiU1sb5PVUkV-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KHQfUFY1CiU1sb5PVUkV-66" target="KHQfUFY1CiU1sb5PVUkV-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KHQfUFY1CiU1sb5PVUkV-66" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="KHQfUFY1CiU1sb5PVUkV-66" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;输入原密码/新密码/确认密码&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="179" y="370" width="135" height="60" as="geometry" />
         </mxCell>
       </root>
