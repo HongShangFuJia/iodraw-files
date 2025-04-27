@@ -1,0 +1,76 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="Qs09uMNNok1p27JrWOGY">
+    <mxGraphModel dx="1551" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jYHTMAEF9lQBK-vkGDIT-1" value="登录注册模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="300" y="260" width="127" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jYHTMAEF9lQBK-vkGDIT-2" value="个人中心模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="300" y="340" width="127" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jYHTMAEF9lQBK-vkGDIT-3" value="书籍信息模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="300" y="420" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jYHTMAEF9lQBK-vkGDIT-4" value="书籍资讯模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="300" y="500" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jYHTMAEF9lQBK-vkGDIT-5" value="购物车模块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="300" y="581" width="111" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jYHTMAEF9lQBK-vkGDIT-6" value="修改个人信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="540" y="340" width="128" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jYHTMAEF9lQBK-vkGDIT-7" value="书籍查询" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="540" y="420" width="94" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jYHTMAEF9lQBK-vkGDIT-8" value="新书上线资讯" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="540" y="500" width="127" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jYHTMAEF9lQBK-vkGDIT-9" value="结算服务" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="540" y="581" width="96" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jYHTMAEF9lQBK-vkGDIT-10" value="extends" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" source="jYHTMAEF9lQBK-vkGDIT-2" target="jYHTMAEF9lQBK-vkGDIT-6" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jYHTMAEF9lQBK-vkGDIT-11" value="extends" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" source="jYHTMAEF9lQBK-vkGDIT-3" target="jYHTMAEF9lQBK-vkGDIT-7" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jYHTMAEF9lQBK-vkGDIT-12" value="extends" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" source="jYHTMAEF9lQBK-vkGDIT-4" target="jYHTMAEF9lQBK-vkGDIT-8" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jYHTMAEF9lQBK-vkGDIT-13" value="extends" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" source="jYHTMAEF9lQBK-vkGDIT-5" target="jYHTMAEF9lQBK-vkGDIT-9" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="346" y="708" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jYHTMAEF9lQBK-vkGDIT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jYHTMAEF9lQBK-vkGDIT-19" target="jYHTMAEF9lQBK-vkGDIT-1" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYHTMAEF9lQBK-vkGDIT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jYHTMAEF9lQBK-vkGDIT-19" target="jYHTMAEF9lQBK-vkGDIT-2" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYHTMAEF9lQBK-vkGDIT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jYHTMAEF9lQBK-vkGDIT-19" target="jYHTMAEF9lQBK-vkGDIT-3" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYHTMAEF9lQBK-vkGDIT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jYHTMAEF9lQBK-vkGDIT-19" target="jYHTMAEF9lQBK-vkGDIT-4" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYHTMAEF9lQBK-vkGDIT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jYHTMAEF9lQBK-vkGDIT-19" target="jYHTMAEF9lQBK-vkGDIT-5" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYHTMAEF9lQBK-vkGDIT-19" value="普通用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="414" width="50" height="93.4" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
