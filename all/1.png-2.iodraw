@@ -275,10 +275,10 @@
           <mxGeometry x="338" y="820" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jYHTMAEF9lQBK-vkGDIT-301" value="价格" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="268" y="880" width="120" height="80" as="geometry" />
+          <mxGeometry x="270" y="880" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jYHTMAEF9lQBK-vkGDIT-302" value="折扣价格" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="178" y="930" width="120" height="80" as="geometry" />
+          <mxGeometry x="190" y="930" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jYHTMAEF9lQBK-vkGDIT-303" value="总价" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="78" y="960" width="120" height="80" as="geometry" />
