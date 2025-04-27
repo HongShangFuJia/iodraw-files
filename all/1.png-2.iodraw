@@ -328,59 +328,8 @@
         <mxCell id="jYHTMAEF9lQBK-vkGDIT-253" value="分类名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jYHTMAEF9lQBK-vkGDIT-255" value="作者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="290" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="jYHTMAEF9lQBK-vkGDIT-256" value="出版社" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="360" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="jYHTMAEF9lQBK-vkGDIT-257" value="主键" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="560" y="235" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="jYHTMAEF9lQBK-vkGDIT-258" value="书籍简介" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="440" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="jYHTMAEF9lQBK-vkGDIT-259" value="价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="450" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="jYHTMAEF9lQBK-vkGDIT-260" value="添加时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="400" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="jYHTMAEF9lQBK-vkGDIT-261" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="jYHTMAEF9lQBK-vkGDIT-185" target="jYHTMAEF9lQBK-vkGDIT-260" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="380" as="sourcePoint" />
-            <mxPoint x="890" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jYHTMAEF9lQBK-vkGDIT-262" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" source="jYHTMAEF9lQBK-vkGDIT-185" target="jYHTMAEF9lQBK-vkGDIT-259" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="380" as="sourcePoint" />
-            <mxPoint x="890" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jYHTMAEF9lQBK-vkGDIT-263" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.058;entryY=0.315;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="jYHTMAEF9lQBK-vkGDIT-185" target="jYHTMAEF9lQBK-vkGDIT-258" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="380" as="sourcePoint" />
-            <mxPoint x="890" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jYHTMAEF9lQBK-vkGDIT-264" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jYHTMAEF9lQBK-vkGDIT-185" target="jYHTMAEF9lQBK-vkGDIT-256" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="380" as="sourcePoint" />
-            <mxPoint x="890" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jYHTMAEF9lQBK-vkGDIT-265" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jYHTMAEF9lQBK-vkGDIT-185" target="jYHTMAEF9lQBK-vkGDIT-255" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="380" as="sourcePoint" />
-            <mxPoint x="890" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jYHTMAEF9lQBK-vkGDIT-266" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="jYHTMAEF9lQBK-vkGDIT-185" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="380" as="sourcePoint" />
-            <mxPoint x="850" y="300" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="jYHTMAEF9lQBK-vkGDIT-267" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" source="jYHTMAEF9lQBK-vkGDIT-185" target="jYHTMAEF9lQBK-vkGDIT-253" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
