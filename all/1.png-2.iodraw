@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jYHTMAEF9lQBK-vkGDIT-179" value="查看" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="430" width="80" height="80" as="geometry" />
+          <mxGeometry x="-372" y="430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jYHTMAEF9lQBK-vkGDIT-180" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" edge="1" source="jYHTMAEF9lQBK-vkGDIT-179" target="jYHTMAEF9lQBK-vkGDIT-181" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -140,7 +140,7 @@
           <mxGeometry x="260" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jYHTMAEF9lQBK-vkGDIT-208" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="450" width="60" height="30" as="geometry" />
+          <mxGeometry x="-472" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jYHTMAEF9lQBK-vkGDIT-209" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-140" y="450" width="60" height="30" as="geometry" />
