@@ -151,13 +151,8 @@
         <mxCell id="jYHTMAEF9lQBK-vkGDIT-211" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="380" y="430" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jYHTMAEF9lQBK-vkGDIT-328" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jYHTMAEF9lQBK-vkGDIT-212">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="709.6470588235295" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jYHTMAEF9lQBK-vkGDIT-212" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="510" y="710" width="60" height="30" as="geometry" />
+          <mxGeometry x="520" y="710" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jYHTMAEF9lQBK-vkGDIT-213" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="520" y="540" width="60" height="30" as="geometry" />
@@ -172,7 +167,7 @@
           <mxGeometry x="-350" y="770" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jYHTMAEF9lQBK-vkGDIT-217" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="620" width="60" height="30" as="geometry" />
+          <mxGeometry x="-640" y="620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jYHTMAEF9lQBK-vkGDIT-246" value="添加时间" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-210" y="335" width="120" height="80" as="geometry" />
